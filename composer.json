@@ -1,0 +1,10 @@
+{
+    "name": "phframe/core",
+    "authors": [
+        {
+            "name": "Jure Jakin",
+            "email": "jure.jakin9@gmail.com"
+        }
+    ],
+    "require": {}
+}
